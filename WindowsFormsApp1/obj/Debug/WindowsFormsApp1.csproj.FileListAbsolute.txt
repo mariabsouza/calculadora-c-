@@ -1,0 +1,10 @@
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Code\Etec\P.A\C#\calculadora\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
