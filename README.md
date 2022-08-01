@@ -1,1 +1,3 @@
-# calculadora-c-
+# Calculadora em C#
+
+Calculadora simples em C#
